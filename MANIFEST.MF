@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: $anty
+Main-Class: Bienvenida
+X-COMMENT: primer programa complejo hecho por $anty(:
